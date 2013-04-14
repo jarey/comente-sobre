@@ -1,0 +1,76 @@
+.box {
+	border: 2px solid black;
+	font-size: 12px;
+	margin-bottom: 5px;
+}
+
+.box h2 {
+	background-color: black;
+	text-transform: uppercase;
+	color: white;
+	font-size: 14px;
+	margin: 0px;
+	padding: 5px;
+}
+
+.box form {
+	padding: 5px;
+}
+
+label {
+	font-weight: bold;
+	display: inline-block;
+	width: 150px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.box div {
+	margin-bottom: 3px;
+}
+
+.content {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	padding-left: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-top: 3px;
+}
+
+.comment {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+.comment .email {
+	font-size: 12px;
+}
+
+.comment .description {
+	font-size: 13px;
+	overflow: auto;
+	width: 98%;
+}
+
+.comment:hover {
+	background-color: #F2F2F2;
+}
+
+.error {
+	font-size: 12px;
+	color: red;
+	padding: 3px;	
+}
+
+a {
+	font-size: 12px;
+}
